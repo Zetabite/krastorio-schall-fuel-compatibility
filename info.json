@@ -1,0 +1,14 @@
+{
+    "name": "krastorio-schall-fuel-compatibility",
+    "version": "0.2.0",
+    "title": "Krastorio 2 Schall Fuel Compat",
+    "author": "Zetabite",
+    "factorio_version": "0.18",
+    "dependencies": [
+        "base >= 0.18",
+        "SchallArmouredTrain >= 1.0.1",
+        "Krastorio2 >= 1.0.3"
+    ],
+    "description": "This mod adds compatibility with Krastorio 2 fuel for Schall armoured trains."
+  }
+  
